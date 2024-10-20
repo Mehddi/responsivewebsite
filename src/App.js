@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Sidebar from '.components/sidebar/Sidebar';
+import About from './components/about/About';
+import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import Services from './components/services/Services';
 import Resume from './components/resume/Resume';
